@@ -17,7 +17,15 @@ form {
     width:100%;
     max-width:500px;
     justify-content: center;
-    margin:auto;
-    
+    margin:auto;   
+    padding:10px;
    
+}
+
+.sub-btn {
+    display:block;
+    margin:20px auto 10px  auto;
+    background-color: goldenrod;
+    width:40%;
+    height:25px;
 }
