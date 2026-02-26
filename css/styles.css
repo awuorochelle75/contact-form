@@ -4,6 +4,7 @@ body {
 
 h1,p{
     text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 label {
@@ -14,8 +15,9 @@ label {
 form {
     background-color:darkgray;
     width:100%;
-    max-width:300px;
+    max-width:500px;
     justify-content: center;
     margin:auto;
+    
    
 }
