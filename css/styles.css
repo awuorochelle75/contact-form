@@ -1,5 +1,7 @@
 body {
    padding:10px;
+   background-color: beige;
+   
 }
 
 h1,p{
@@ -13,7 +15,6 @@ label {
 }
 
 form {
-    background-color:darkgray;
     width:100%;
     max-width:500px;
     justify-content: center;
@@ -28,4 +29,8 @@ form {
     background-color: goldenrod;
     width:40%;
     height:25px;
+}
+
+fieldset {
+    border:none;
 }
