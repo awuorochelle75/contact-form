@@ -13,5 +13,9 @@ label {
 
 form {
     background-color:darkgray;
+    width:100%;
+    max-width:300px;
+    justify-content: center;
+    margin:auto;
    
 }
