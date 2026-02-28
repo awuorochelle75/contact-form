@@ -53,3 +53,7 @@ a{
     margin-top:10px;
     display:block;
 }
+
+a:hover {
+    color: blue;
+}
